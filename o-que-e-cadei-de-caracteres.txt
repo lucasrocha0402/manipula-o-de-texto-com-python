@@ -1,0 +1,2 @@
+uma frase é uma cadeia de texto(caractere) para o python toda cadeia de texto está entre ' ou "
+ou aspas tripla.
